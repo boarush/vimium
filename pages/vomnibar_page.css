@@ -97,6 +97,8 @@ ul {
 #vomnibar li .url {
   white-space: nowrap;
   color: #224684;
+  display: inline-block;
+  width: 90%;
 }
 
 #vomnibar li .match {
@@ -172,6 +174,8 @@ ul {
   #vomnibar li .url {
     white-space: nowrap;
     color: #5ca1f7;
+    display: inline-block;
+    width: 90%;
   }
 
   #vomnibar li em,
